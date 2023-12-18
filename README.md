@@ -1,4 +1,4 @@
-- 👋 Hi, This is Liu Lab fucused on Functional Genome.
+- 👋 Hi, This is Liu Lab which will offically open at March 1 2024 in University of Rochester.
 - 👀 Our lab is interested in aging and age-related diseases.
 - 🌱 We are currently integerating large-scale GWAS and single cell omics to find aging markers and potential drugs targets for age-related diseases.
 - 💞️ We are looking to collaborate on aging and age-related diseases.
